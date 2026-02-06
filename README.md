@@ -21,7 +21,7 @@ Image search engine developed with **Vanilla JavaScript**. This project demonstr
 - **Error Handling:** Implemented Toast notifications (izitoast) for user-friendly error alerts.
 
 ## 🔗 Live Demo
-[Try JS Pixel Finder](https://liliia-zharikova14081998.github.io/goit-js-hw-12/)
+[Try JS Pixel Finder](https://liliia-zharikova14081998.github.io/image-search-js/)
 
 ## ⚙️ How to Run
 1. Clone the repository.
