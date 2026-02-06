@@ -26,3 +26,8 @@ Image search engine developed with **Vanilla JavaScript**. This project demonstr
 ## ⚙️ How to Run
 1. Clone the repository.
 2. Open `index.html` in your browser (or use Live Server in VS Code).
+
+## 📫 Author
+Liliia Zharikova
+
+[Git Hub](https://github.com/Liliia-Zharikova14081998)
